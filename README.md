@@ -14,3 +14,4 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 # Bot İçeriğine Ait Resimler
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/97298322/152687597-bb57e01e-b019-4d0a-b3f1-29e8878d806b.PNG)
 ![qbeqwbw](https://user-images.githubusercontent.com/97298322/152687601-5963b287-a4fd-4220-bd80-f4f89f1dd4a5.PNG)
+![qwvrwqbqwrbqwr](https://user-images.githubusercontent.com/97298322/152705764-c8f28427-edbb-49ba-aab4-062abda76cdb.PNG)
