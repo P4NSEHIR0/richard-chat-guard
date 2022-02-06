@@ -10,6 +10,7 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ![Profile Count](https://komarev.com/ghpvc/?username=richard-chat-guard&label=Project%20visits&color=blueviolet)&nbsp;
 
 # Kurulum Nasıl Yapılır?
-- Bir sonraki düzenlemede anlatacağım
+- `src/Configs` klasörünün içerisindeki `Config.json` dosyasını doldurmanız yeterlidir.
 # Bot İçeriğine Ait Resimler
-- resimleri toplu düzenlemede paylaşacağım
+![Ekran Alıntısı](https://user-images.githubusercontent.com/97298322/152687597-bb57e01e-b019-4d0a-b3f1-29e8878d806b.PNG)
+![qbeqwbw](https://user-images.githubusercontent.com/97298322/152687601-5963b287-a4fd-4220-bd80-f4f89f1dd4a5.PNG)
