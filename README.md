@@ -9,6 +9,8 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ![Profile Count](https://komarev.com/ghpvc/?username=richardsistemler&color=blue)&nbsp;
 ![Profile Count](https://komarev.com/ghpvc/?username=richard-chat-guard&label=Project%20visits&color=blueviolet)&nbsp;
 
+# Önemli Bilgi
+- Botun sunucu içi ayarı sadece `<prefix>setup` komutu ile yapılır başka hiçbir şeyi düzenlemenize gerek yoktur.
 # Kurulum Nasıl Yapılır?
 - `src/Configs` klasörünün içerisindeki `Config.json` dosyasını doldurmanız yeterlidir.
 # Bot İçeriğine Ait Resimler
