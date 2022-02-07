@@ -15,4 +15,4 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/97298322/152687597-bb57e01e-b019-4d0a-b3f1-29e8878d806b.PNG)
 ![qbeqwbw](https://user-images.githubusercontent.com/97298322/152687601-5963b287-a4fd-4220-bd80-f4f89f1dd4a5.PNG)
 ![qwvrwqbqwrbqwr](https://user-images.githubusercontent.com/97298322/152705764-c8f28427-edbb-49ba-aab4-062abda76cdb.PNG)
-![qvwevqwevqwe](https://user-images.githubusercontent.com/97298322/152708049-0e3fe5e5-5d7c-4996-bf0d-27a18d53717b.PNG)
+![bqwrbqwbqwrbqwrbqwr](https://user-images.githubusercontent.com/97298322/152888385-ef186a0d-49d0-4a4a-bd40-9369e8c14633.PNG)
