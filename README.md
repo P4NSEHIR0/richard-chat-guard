@@ -1,6 +1,7 @@
 # Richard Chat Guard Sistemi
 
-- eventlerde hata var düzeltemiyorum imdat.
+- Proje sorunsuz çalışıyor, hata alıyorsanız sizinle alakalı.
+- Botun geçikme sebebi ise; internet kesintilerim ve hatalar. Özür diliyor iyi kullanımlar diliyorum
 - Sistem genel olarak bütün sunucularda kullanılabilir şekilde yapılmıştır.
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
